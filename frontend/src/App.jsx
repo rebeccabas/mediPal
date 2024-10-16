@@ -83,7 +83,7 @@ const MentalHealthChatbot = () => {
       </div>
       <div className="flex-1 flex flex-col">
         <header className="bg-teal-600 text-white p-4">
-          <h1 className="text-2xl font-bold">Mental Health Companion</h1>
+          <h1 className="text-2xl font-bold">mindPal</h1>
         </header>
         <main className="flex-1 overflow-hidden">
           {activeTab === 'chat' && (
