@@ -1,4 +1,3 @@
-// src/components/MoodTracker.jsx
 import React from 'react';
 import { Smile, Meh, Frown } from 'lucide-react';
 

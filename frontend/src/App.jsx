@@ -1,4 +1,3 @@
-// src/App.jsx
 import React, { useState, useEffect } from 'react';
 import { MessageCircle, BarChart2, Settings } from 'lucide-react';
 import ChatInterface from './components/ChatInterface';

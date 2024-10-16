@@ -1,6 +1,3 @@
-// src/components/ChatInterface.jsx
-
-// src/components/ChatInterface.jsx
 import React, { useState, useEffect, useRef } from 'react';
 import { Send } from 'lucide-react';
 
