@@ -30,7 +30,4 @@ Welcome to **mediPal**, your friendly mental health chatbot! The mission is to p
 
 Here are some screenshots of mediPal in action:
 
-<div style="display: flex; justify-content: center;">
-    <img src="assets/mindPal-1.png" alt="Screenshot 1" style="margin-right: 10px; max-width: 45%; height: auto;">
-    <img src="assets/mindPal-2.png" alt="Screenshot 2" style="max-width: 45%; height: auto;">
-</div>
+![](assets/mindPal-1.png) ![](assets/mindPal-2.png)
