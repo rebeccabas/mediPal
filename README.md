@@ -25,9 +25,3 @@ Welcome to **mediPal**, your friendly mental health chatbot! The mission is to p
 
 - **AI Model**: **LLaMA3 7B**
   - This model generates human-like responses, understanding your context and needs.
-
-## 📷 Screenshots
-
-Here are some screenshots of mediPal in action:
-
-![](assets/mindPal-1.png) ![](assets/mindPal-2.png)
